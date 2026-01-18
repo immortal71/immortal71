@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashish Kharel</h1>
-<h3 align="center">A am developer from Nepal and also Founder of Trovesx</h3>
+<h3 align="center">I am developer from Nepal and also Founder of Trovesx</h3>
 
 - 🔭 I’m currently working on [refillx](refillx.trovesx.com)
 
