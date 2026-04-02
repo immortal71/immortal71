@@ -69,8 +69,8 @@ aashish = {
 - **Cosmology,Biotech, Drug production and cancer research ,currently leaning into Aeronautical Engineering**(figuring stuff)
 - **National Astronomy olampaid 2024-2025** + state physics olampaid Champion 
 - **I am author too, I love to write books(2-3 completed) when I am stressed**, I mostly write non frictional -havnt pushished yet maybe in future !!
-- ⚡ Fun fact: **Dinosaurs still exist but in my code comments🦕**
 -Currently focusing on learning and trying everything out so I can decide what is worth chasing !!
+-Funfact **My home planet is Neptune**
 ---
 
 ## 🛠️ Tech Stack
