@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0eab3e6a-a3e6-46dc-a07b-6acb22c732fe" /><div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20👋%20What's%20Up?&fontSize=42&fontColor=fff&animation=twinkling)
 
@@ -76,8 +76,8 @@ aashish = {
 - 🤖 Developing **OncoPurpose** — AI copilot for pharma & drug companies
 - 🧬 Creating **Scarfold** — making protein folding accessible to everyone
 - 📚 Completing **MIT Data Science MicroMaster**
-- ⚡ Fun fact: **Dinosaurs still exist 🦕**
-
+- ⚡ Fun fact: **Dinosaurs still exist but in my code 🦕**
+-Currently focusing on learning and trying everything out so I can decide what is worth chasing !!
 ---
 
 ## 🛠️ Tech Stack
@@ -105,8 +105,8 @@ aashish = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=immortal71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immortal71&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=immortal71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immortal71&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </div>
 
 ---
@@ -114,7 +114,7 @@ aashish = {
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=immortal71&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=immortal71&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
 </div>
 
 ---
@@ -123,7 +123,7 @@ aashish = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
+[![LinkedIn](https://www.linkedin.com/in/aashish-kharel-088484255/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashishkharel7@gmail.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aashishkharel.trovesx.com)
