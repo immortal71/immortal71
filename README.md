@@ -1,14 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0eab3e6a-a3e6-46dc-a07b-6acb22c732fe" /><div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20👋%20What's%20Up?&fontSize=42&fontColor=fff&animation=twinkling)
-
-</div>
-
-<div align="center">
-
-![Python](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,jupyter,git,github,linux,docker,aws&theme=dark)
-
-</div>
 
 <div align="center">
 
