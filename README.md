@@ -109,17 +109,6 @@ aashish = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=immortal71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immortal71&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=immortal71&theme=tokyonight&hide_border=true" />
-</div>
-
 ## 🏆 Trophies
 
 <div align="center">
