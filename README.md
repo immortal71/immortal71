@@ -139,7 +139,7 @@ aashish = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=immortal71&label=Profile+Views&color=00D9FF&style=flat" />
   <br/><br/>
-  <i>"Biology is the most powerful technology ever created. DNA is software, proteins are hardware, cells are factories." 🧬</i>
+  <i>"Biology is the headingg in new era ,the point is how much can I contribute on that itself." 🧬</i>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
