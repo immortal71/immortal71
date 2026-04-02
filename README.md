@@ -109,12 +109,6 @@ aashish = {
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=immortal71&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-</div>
----
 
 ## 📬 Connect With Me
 
