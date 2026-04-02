@@ -65,8 +65,11 @@ aashish = {
 - 🔭 Building **OpenOncology** — repurposed drug discovery for cancer patients
 - 🤖 Developing **OncoPurpose** — AI copilot for pharma & drug companies
 - 🧬 Creating **Scarfold** — making protein folding accessible to everyone
-- 📚 Completing **MIT Data Science MicroMaster**
-- ⚡ Fun fact: **Dinosaurs still exist but in my code 🦕**
+- 📚 Completing **Data Science MicroMaster from MIT**
+- **Cosmology,Biotech, Drug production and cancer research ,currently leaning into Aeronautical Engineering**(figuring stuff)
+- **National Astronomy olampaid 2024-2025** + state physics olampaid Champion 
+- **I am author too, I love to write books(2-3 completed) when I am stressed**, I mostly write non frictional -havnt pushished yet maybe in future !!
+- ⚡ Fun fact: **Dinosaurs still exist but in my code comments🦕**
 -Currently focusing on learning and trying everything out so I can decide what is worth chasing !!
 ---
 
