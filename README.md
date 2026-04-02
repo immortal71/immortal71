@@ -31,7 +31,7 @@
 
 </div>
 
-<h3 align="center">I am a developer from Nepal 🇳🇵 — working at the intersection of AI & medicine</h3>
+<h3 align="center">I am a developer from Nepal 🇳🇵 — focused on learning and finishing stuff on time</h3>
 
 ---
 
