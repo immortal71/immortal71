@@ -8,13 +8,7 @@
 [![Medium](https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourhandle)
 [![DEV.TO](https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourhandle)
 
-</div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=immortal71&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 <!-- Pacman Snake — only shows after GitHub Action runs -->
 <picture>
