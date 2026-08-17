@@ -1,136 +1,111 @@
+# Hi, I'm Aashish Kharel 👋
 
+AI/ML and open-source developer from Nepal 🇳🇵. I build AI systems and the
+measurement tools that tell you whether they actually work.
+
+## 🚀 Featured Projects
+
+### 🔍 RCAgentBench
+
+A benchmark for measuring how tool design and agent instructions affect LLM
+agents doing root cause analysis on distributed traces. Deterministic fault
+scenarios, trajectory-level metrics, and a failure-mode taxonomy that separates
+an agent that followed the call chain to the wrong end from one that invented a
+service.
+
+**Python · LLM Agents · Evaluation · MCP · Distributed Tracing**
+
+### 🧬 OpenOncology
+
+Open-source AI/ML research platform for evidence-driven oncology research and
+drug repurposing.
+
+**Python · Machine Learning · Data Science · Bioinformatics**
+
+### 🧬 OncoLncRNA-Sentinel
+
+A reproducible oncology ML platform for survival modeling, locked inference,
+provenance tracking, drift monitoring, and audit-ready deployment.
+
+**Python · Machine Learning · Statistics · Bioinformatics**
+
+### 🤖 cbioportal-ai-assistant-poc
+
+An AI assistant prototype over cBioPortal cancer genomics data, exploring how
+agents query and reason about biomedical datasets.
+
+**Python · LLMs · Biomedical Data**
+
+### 🧪 Scarfold
+
+An accessible computational biology project exploring protein-structure
+prediction workflows.
+
+**Python · Machine Learning · Computational Biology**
+
+---
+
+## 🛠️ Technologies
+
+**Languages**
+
+Python · JavaScript/TypeScript · Java · C
+
+**AI / ML**
+
+LLMs · AI Agents · Tool Calling · RAG · scikit-learn · PyTorch · TensorFlow
+
+**Data**
+
+Pandas · NumPy · SQL · Statistics
+
+**Software Engineering**
+
+Git · GitHub Actions · Linux · REST APIs · FastAPI · pytest
+
+**Infrastructure**
+
+Docker · CI/CD
+
+---
+
+## 🌐 Open Source
+
+I work on open-source projects where AI research meets software engineering.
+What interests me most is making AI systems measurable: benchmarks that
+discriminate, metrics that describe how a system failed rather than only that it
+failed, and results anyone can reproduce.
+
+Currently expanding into distributed systems and observability through the
+CNCF ecosystem.
+
+---
+
+## 🎓 Background
+
+- MITx MicroMasters in Statistics and Data Science (in progress)
+- Harvard CS50x
+- Independent AI/ML and computational biology research
+
+---
+
+## 📫 Connect
+
+- Email: [aashishkharel7@gmail.com](mailto:aashishkharel7@gmail.com)
+
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
-[![Medium](https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourhandle)
-[![DEV.TO](https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourhandle)
-
-
-
-<!-- Pacman Snake — only shows after GitHub Action runs -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/immortal71/immortal71/output/pacman-contribution-graph.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/immortal71/immortal71/output/pacman-contribution-graph.svg" />
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/immortal71/immortal71/output/pacman-contribution-graph.svg" />
 </picture>
 
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Aashish+Kharel;Data+Science+MicroMaster+@+MIT+🎓;Building+AI+for+Medicine+🧬" />
-
-</div>
-
-<h3 align="center">I am a developer from Nepal 🇳🇵 — focused on learning and finishing stuff on time</h3>
-
----
-
-## 🧠 About Me
-```python
-aashish = {
-    "name":      "Aashish Kharel",
-    "location":  "Nepal 🇳🇵",
-    "focus":     ["Data Science", "ML", "Bioinformatics", "Drug Discovery AI"],
-    "learning":  "MIT Data Science MicroMaster 🎓",
-    "open_source": True,
-    "fun_fact":  "Dinosaurs still exist 🦕",
-    "reach_me":  "aashishkharel7@gmail.com"
-}
-```
-
----
-
-## 🚀 Current Projects
-
-| Project | Description | Status |
-|--------|-------------|--------|
-| 🔬 [**OpenOncology**](https://github.com/immortal71/openoncology) | Open-source platform to find repurposed drugs for cancer patients using AI | 🟢 Active |
-| 🤖 [**OncoPurpose**](https://github.com/immortal71/oncopurpose) | AI assistant for drug-making companies to streamline drug discovery | 🟢 Active |
-| 🧬 [**Scarfold**](https://github.com/immortal71/scarfold) | A simpler, accessible version of AlphaFold for protein structure prediction | 🔨 Building |
-
----
-
-## 🌱 What I'm Up To
-
-- 🔭 Building **OpenOncology** — repurposed drug discovery for cancer patients
-- 🤖 Developing **OncoPurpose** — AI copilot for pharma & drug companies
-- 🧬 Creating **Scarfold** — making protein folding accessible to everyone
-- 📚 Completing **Data Science MicroMaster from MIT**
-- **Cosmology,Biotech, Drug production and cancer research ,currently leaning into Aeronautical Engineering**(figuring stuff)
-- **National Astronomy olampaid 2024-2025** + state physics olampaid Champion 
-- **I am author too, I love to write books(2-3 completed) when I am stressed**, I mostly write non frictional -havnt pushished yet
-- **Currently focusing on learning and trying everything out so I can decide what is worth chasing !!**
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-**AI / ML / Data**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Tools & Cloud**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-
----
-
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://www.linkedin.com/in/aashish-kharel-088484255/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashishkharel7@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aashishkharel.trovesx.com)
-
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=immortal71&label=Profile+Views&color=00D9FF&style=flat" />
-  <br/><br/>
-  <i>"Biology is the headingg in new era ,the point is how much can I contribute on that itself." 🧬</i>
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+> Building useful AI systems is only half the problem.
+> **Measuring whether they actually work is the other half.**
